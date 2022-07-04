@@ -1,2 +1,2 @@
 # mtp-e-ms
- Respositório de exercícios propostos nos cursos propostos pelo programa Escola do Trabalhador 40. Projeto do Ministério da Economia com a Microsoft.
+ Respositório de exercícios propostos nos cursos propostos pelo programa Escola do Trabalhador 4.0. Projeto do Ministério do Trabalho e Previdência em parceria com a Microsoft.
